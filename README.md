@@ -1,6 +1,10 @@
 # TeensyRA8876-SPI
 A RA8876 library for use with SPI driver for Teensy boards and variants.
 
+Communication with the Teensy is accomplished using SPI. To install unzip the zip file in the Arduino/libraries folder.
+
+Example sketches can be found in the TeensyRA8876-8080 and TeensyRA8876-SPI examples folders.
+
 *** CONNECTING THE TEENSY TO THE ER-TFTM101-1 in SPI mode ***
 
 40 pin dual inline connector pinouts can be found here.
