@@ -14,7 +14,7 @@
 //#define RA8876_RST 28
 
 //Uncomment to to use 47MHz SPI clock. Default is 30MHz.
-#define USE_SPI_47000000
+//#define USE_SPI_47000000
 
 // Uncomment to use BL pin else wired to 3.3V
 //#define BACKLITE 5 //External backlight control connected to this Arduino pin
