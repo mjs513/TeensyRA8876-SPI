@@ -4,6 +4,7 @@ A RA8876 library for use with SPI driver for Teensy boards and variants.
 *** CONNECTING THE TEENSY TO THE ER-TFTM101-1 in SPI mode ***
 
 40 pin dual inline connector pinouts can be found here.
+
 https://www.buydisplay.com/download/interfacing/ER-TFTM101-1_RTP_Interfacing.pdf
 
 # PINOUTS
