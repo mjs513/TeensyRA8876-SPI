@@ -1,0 +1,12 @@
+{
+	"name": "TeensyRA8876-SPI",
+	"frameworks": "Arduino",
+	"platforms": "Teensy 3.6 - T4 - MicroMod",
+	"keywords": "Teensy_RA8876_SPI",
+	"description": "wwatson TeensyRA8876-SPI Library",
+	"version": "1.0.0",
+	"authors":
+	{	"name": "Warren Watson",
+		"maintainer": true
+	}
+}
