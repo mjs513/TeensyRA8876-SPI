@@ -11,7 +11,7 @@
 #define RA8876_CS 10
 #define RA8876_RESET 9
 //#define RA8876_CS 30
-//#define RA8876_RST 28
+//#define RA8876_RESET 28
 
 //Uncomment to to use 47MHz SPI clock. Default is 30MHz.
 #define USE_SPI_47000000
