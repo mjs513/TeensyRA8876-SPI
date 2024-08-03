@@ -38,7 +38,7 @@ const ili_fonts_test_t font_test_list[] = {
   {&Michroma_14, nullptr,  "Michroma_14", YELLOW, YELLOW},
   {&Crystal_24_Italic, nullptr,  "CRYSTAL_24", BLACK, YELLOW},
   {&Chancery_24_Italic, nullptr,  "Chancery_24_Italic", GREEN, GREEN},
-  {&OpenSans24, nullptr,  "OpenSans 18", RED, YELLOW},
+  {&OpenSans24, nullptr,  "OpenSans 24", RED, YELLOW},
   {nullptr, &FreeMonoBoldOblique12pt7b,  "GFX FreeMonoBoldOblique12pt7b", WHITE, WHITE},
   {nullptr, &FreeMonoBoldOblique12pt7b,  "GFX FreeMonoBoldOblique12pt7b", RED, YELLOW},
   {nullptr, &FreeSerif12pt7b,  "GFX FreeSerif12pt7b", WHITE, WHITE},
@@ -153,6 +153,7 @@ void loop()
     else if (font_test_list[font_index].gfx_font)  tft.setFont(font_test_list[font_index].gfx_font);
     else tft.setFontDef();
     tft.println(font_test_list[font_index].font_name);
+    Serial.printf("Showing font: %s\n", font_test_list[font_index].font_name);
     displayStuff1();
   }
   nextPage();
