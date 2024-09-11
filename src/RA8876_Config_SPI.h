@@ -1,4 +1,4 @@
-/* RA8876_Config.h
+/* RA8876_Config_SPI.h
  A file to place user defines and configs.
 */
 
