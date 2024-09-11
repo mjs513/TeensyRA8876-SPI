@@ -134,8 +134,8 @@ Example sketches can be found in the TeensyRA8876-8080 and TeensyRA8876-SPI exam
 - RA8876_pictureEmbed --> Displays 16Bit color images. Also demonstrates rotation.
 - RA8876Rotate --------------> Also demontrates use of rotation.
 - scroll ---------------------------> Simple demonstration of scrolliing screen up and down.
-- treedee --------------------------> Demonstrates a spinning 3D wire cube.
-- UserDefinedFonts ------------> Demonstrates loading  user define fonts into pattern ram.   Fonts can also be loaded from an SD card or USB drive.
+- treedee ------------------------> Demonstrates a spinning 3D wire cube.
+- UserDefinedFonts ----------> Demonstrates loading  user define fonts into pattern ram.   Fonts can also be loaded from an SD card or USB drive.
 
 
 ***
