@@ -2,8 +2,8 @@
  A file to place user defines and configs.
 */
 
-#ifndef RA8876_CONFIG_H
-#define RA8876_CONFIG_H
+#ifndef RA8876_CONFIG_SPI_H
+#define RA8876_CONFIG_SPI_H
 
 // SPI hardware settings
 #define USE_SPI // Needed for writeRect() in RA8876_GFX
