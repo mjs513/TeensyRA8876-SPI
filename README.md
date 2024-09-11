@@ -23,6 +23,7 @@ A minimal driver adapted from the arduino-goodix library can be found here:
 
 ### CONNECTING THE TEENSY TO THE ER-TFTM101-1 in SPI 4 wire  mode:
 40 pin dual inline connector pinouts for SPI buss mode can be found here:
+
 https://www.buydisplay.com/download/interfacing/ER-TFTM101-1_CTP_Interfacing.pdf
 
 ### Teensy 4.1 <--------------> RA8876
